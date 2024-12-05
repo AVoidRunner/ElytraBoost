@@ -1,0 +1,9 @@
+main: me.Mastervrunner.ElytraYeet.Main
+name: LuckySpin
+version: 1.0
+author: Me - MasterV
+api-version: 1.13 
+
+commands: 
+  Yeet: 
+  SetYeet: 
